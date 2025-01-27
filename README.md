@@ -1,6 +1,3 @@
-# brats-3d-unet
-
-
 # 3D UNet for BraTS 2024 Post-Treatement Glioma Detection
 
 The BraTS Vanilla 3D U-Net project involved developing a 3D U-Net model from scratch to segment enhancing tumors (ET) in the BraTS 2024 Post-Treatment Glioma Dataset. The initial model achieved a 70-75% Intersection over Union (IoU) for whole-tumor segmentation.
