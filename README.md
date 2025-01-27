@@ -88,6 +88,14 @@ The following loss functions were used in this project:
 - **Binary Cross-Entropy (BCE) Loss:** Measures the difference between predicted and actual binary labels.
 
 
+## Metrics
+
+- **Intersection over Union (IoU):** Used to evaluate the overlap between predicted and ground truth segmentation masks.
+
+
+
+
+
 
 
 
