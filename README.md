@@ -80,7 +80,12 @@ For initial experiments, the Adam optimizer was initialized with the following d
 optimizer = torch.optim.Adam(unet3d.parameters(), lr=3e-4, betas=(0.9, 0.999), weight_decay=1e-4)
 ```
 
+## Loss Functions
 
+The following loss functions were used in this project:  
+- **Dice Loss:** Handles class imbalance and improves overlap accuracy.  
+- **Tversky Loss:** Balances false positives and false negatives, with `alpha=0.4` and `beta=0.6`.  
+- **Binary Cross-Entropy (BCE) Loss:** Measures the difference between predicted and actual binary labels.
 
 
 
