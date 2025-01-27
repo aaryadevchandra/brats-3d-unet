@@ -93,6 +93,11 @@ The following loss functions were used in this project:
 - **Intersection over Union (IoU):** 70-75% Used to evaluate the overlap between predicted and ground truth segmentation masks.
 
 
+## Hardware and Resource Requirements
+
+- **GPU Used:** NVIDIA H100 PCIe with MIG configuration, providing up to 40GB of GPU memory.  
+- **Reason for Resource Requirement:**  
+  The project involves processing large NIfTI files, which demand high RAM and GPU memory for training. Most local machines lack the computational power and memory capacity required to handle the dataset efficiently, making access to high-performance computing resources essential for this work.
 
 
 
