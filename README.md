@@ -90,7 +90,7 @@ The following loss functions were used in this project:
 
 ## Metrics
 
-- **Intersection over Union (IoU):** Used to evaluate the overlap between predicted and ground truth segmentation masks.
+- **Intersection over Union (IoU):** 70-75% Used to evaluate the overlap between predicted and ground truth segmentation masks.
 
 
 
