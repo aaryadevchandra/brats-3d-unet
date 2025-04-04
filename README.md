@@ -16,9 +16,9 @@ The BraTS Vanilla 3D U-Net project involved developing a 3D U-Net model from scr
 
 ## Screenshots
 
-![Train Prediction](https://cdn.discordapp.com/attachments/762386959389556760/1333285697574141952/image.png?ex=67985691&is=67970511&hm=eab2510cadeefa3456d1e8ef7ec882f11b65479b6922e55bdbeb4f24ee45cfb1&)
+![Train Prediction](https://cdn.discordapp.com/attachments/762386959389556760/1333285697574141952/image.png?ex=67985691&is=67970511&hm=eab2510cadeefa3456d1e8ef7ec882f11b65479b6922e55bdbeb4f24ee45cfb1&](https://cdn.discordapp.com/attachments/762386959389556760/1333285697574141952/image.png?ex=67f0ab11&is=67ef5991&hm=aad8fb47276143443e456f39d4c4b94bbdf0883cbc05ec1180aa28fb21b3c27b&)
 
-![Test Prediction](https://cdn.discordapp.com/attachments/762386959389556760/1333285989338054707/image.png?ex=679856d7&is=67970557&hm=0396153319fd9ba61a34e8001e33a449a278c10320cb7239330f93ec1b54e929&)
+![Test Prediction](https://cdn.discordapp.com/attachments/762386959389556760/1333285989338054707/image.png?ex=679856d7&is=67970557&hm=0396153319fd9ba61a34e8001e33a449a278c10320cb7239330f93ec1b54e929&](https://media.discordapp.net/attachments/762386959389556760/1333285989338054707/image.png?ex=67f0ab57&is=67ef59d7&hm=22550a118c90c171db594e4c657f93780a91f6373525d7953b392b0918c2136e&=&format=webp&quality=lossless&width=1214&height=638)
 
 
 
