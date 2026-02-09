@@ -14,9 +14,9 @@ The BraTS Vanilla 3D U-Net project involved developing a 3D U-Net model from scr
 
 ## Screenshots
 
-![Train Prediction](https://cdn.discordapp.com/attachments/762386959389556760/1333285697574141952/image.png)
+![Train Prediction](https://drive.google.com/file/d/1OSf4TFDKn0l3mctLwwcdXzzLN9_dInXY/view?usp=sharing)
 
-![Test Prediction](https://cdn.discordapp.com/attachments/762386959389556760/1333285989338054707/image.png)
+![Test Prediction](https://drive.google.com/file/d/1DG9t179jUmx56sBqiwXDpF2RD8wCWrmP/view?usp=sharing)
 
 
 
